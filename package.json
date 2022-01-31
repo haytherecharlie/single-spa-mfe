@@ -1,0 +1,11 @@
+{
+	"name": "rbc-mfe",
+	"version": "1.0.0",
+	"description": "RBC | Front End Micro Architecture Service",
+	"author": "Charlie Hay",
+	"license": "UNLICENSED",
+	"scripts": {
+		"setup": "cd aot-container && npm ci & cd widget-kyc && npm ci & cd widget-offers && npm ci",
+		"start": "cd aot-container && npm start & cd widget-kyc && npm start & cd widget-offers && npm start"
+	}
+}
