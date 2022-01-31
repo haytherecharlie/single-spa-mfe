@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target": "widget-offers",
+    "public": "dist/widget-offers",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
