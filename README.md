@@ -1,4 +1,4 @@
-![RBC](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/bgsptpxlhduicwzbfbmm)
+![RBC](https://worknearyou.ca/wp-content/uploads/2021/10/RBC-LOGO.jpg)
 
 # RBC | Front End Micro Architecture Service
 
@@ -49,4 +49,4 @@ npm start
 ## UML diagrams
 
 Component tree diagram:
-![Component Tree Diagram](https://github.com/haytherecharlie/rbc-mfe/tree/master/diagram.png)
+![Component Tree Diagram](https://raw.githubusercontent.com/haytherecharlie/rbc-mfe/master/diagram.png)
