@@ -5,8 +5,7 @@
     "ng": "ng",
     "deploy": "firebase deploy --only hosting",
     "start": "npm run serve:spa",
-    "build": "npm run build:spa; npm run containerize",
-    "containerize": "cp -r dist/widget-offers ../aot-container/dist",
+    "build": "npm run build:spa",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
@@ -32,7 +31,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.29",
-    "@angular/cli": "~8.3.29",
+    "@angular/cli": "~8.2.14",
     "@angular/compiler-cli": "~8.2.14",
     "@angular/language-service": "~8.2.14",
     "@types/jasmine": "~3.3.8",

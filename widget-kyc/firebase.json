@@ -1,10 +1,22 @@
 {
   "hosting": {
-    "public": "public",
+    "target": "widget-kyc", 
+    "public": "dist/widget-kyc",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "headers": [
+      {
+        "source": "**",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          }
+        ]
+      }
     ]
   }
 }

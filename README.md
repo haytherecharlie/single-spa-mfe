@@ -1,6 +1,4 @@
-![RBC](https://worknearyou.ca/wp-content/uploads/2021/10/RBC-LOGO.jpg)
-
-# RBC | Front End Micro Architecture Service
+# Single Spa | Front End Micro Architecture Service
 
 
 ## Deliverables

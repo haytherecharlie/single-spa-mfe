@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "rbc-mfe"
+  },
+  "targets": {
+    "rbc-mfe": {
+      "hosting": {
+        "widget-kyc": [
+          "widget-kyc"
+        ]
+      }
+    }
   }
 }
