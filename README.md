@@ -34,7 +34,7 @@ node -v
 git@github.com:haytherecharlie/rbc-mfe.git
 
 # navigate to the project folder:
-cd rbc-mfe
+cd single-spa-mfe
 
 # install dependencies:
 npm run setup
